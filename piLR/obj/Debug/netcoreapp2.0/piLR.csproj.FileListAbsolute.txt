@@ -1,0 +1,10 @@
+/home/dominik/Development/leibnitzReihe/piLR/bin/Debug/netcoreapp2.0/piLR.deps.json
+/home/dominik/Development/leibnitzReihe/piLR/bin/Debug/netcoreapp2.0/piLR.runtimeconfig.json
+/home/dominik/Development/leibnitzReihe/piLR/bin/Debug/netcoreapp2.0/piLR.runtimeconfig.dev.json
+/home/dominik/Development/leibnitzReihe/piLR/bin/Debug/netcoreapp2.0/piLR.dll
+/home/dominik/Development/leibnitzReihe/piLR/bin/Debug/netcoreapp2.0/piLR.pdb
+/home/dominik/Development/leibnitzReihe/piLR/obj/Debug/netcoreapp2.0/piLR.csproj.CoreCompileInputs.cache
+/home/dominik/Development/leibnitzReihe/piLR/obj/Debug/netcoreapp2.0/piLR.AssemblyInfoInputs.cache
+/home/dominik/Development/leibnitzReihe/piLR/obj/Debug/netcoreapp2.0/piLR.AssemblyInfo.cs
+/home/dominik/Development/leibnitzReihe/piLR/obj/Debug/netcoreapp2.0/piLR.dll
+/home/dominik/Development/leibnitzReihe/piLR/obj/Debug/netcoreapp2.0/piLR.pdb
